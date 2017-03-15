@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Koensjt",
-    "currentPage": "Hoofd",
+    "currentPage": "Grafiek",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 12,
+    "uniqCompNum": 13,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/untitled-1-128x175.png",
     "noImageResize": "",
@@ -190,18 +190,59 @@
           ],
           "_name": "gallery3",
           "_params": {
-            "spacing": 1,
             "paddingTop": "3",
             "paddingBottom": "4",
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/monotype-2000x1593-800x637.jpg",
+                "image": "@PROJECT_PATH@/assets/images/monotype-2000x1593.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/monotype1web-2000x2668-800x1067.jpg",
+                "image": "@PROJECT_PATH@/assets/images/monotype1web-2000x2668.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/monotype-2000x2620-800x1048.jpg",
+                "image": "@PROJECT_PATH@/assets/images/monotype-2000x2620.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/monotype-1-2000x2620-800x1048.jpg",
+                "image": "@PROJECT_PATH@/assets/images/monotype-1-2000x2620.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": 1,
             "showText": false,
-            "images": [],
             "filter": false,
             "bgColor": "#000000",
             "filterBgColor": true,
             "fullWidth": true,
             "showBullets": true
           },
-          "_anchor": "gallery3-5",
+          "_anchor": "gallery3-c",
           "articleLayout": false,
           "allItem": "All"
         },
