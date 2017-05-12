@@ -33,7 +33,7 @@
     "Hoofd": {
       "settings": {
         "title": "Web Page Builder Title",
-        "meta_descr": "Web Page Builder Description",
+        "meta_descr": "Nicolas Verlee, Nicolas Verlee, Nicolas Verlee\nCopyrighted Nicolas Verlee",
         "order": 1
       },
       "components": [
@@ -140,7 +140,7 @@
       "settings": {
         "main": true,
         "title": "",
-        "meta_descr": "",
+        "meta_descr": "Copyrighted Nicolas Verlee",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -282,7 +282,7 @@
     "Tekeningen": {
       "settings": {
         "title": "",
-        "meta_descr": "",
+        "meta_descr": "Copyrighted Nicolas Verlee",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
