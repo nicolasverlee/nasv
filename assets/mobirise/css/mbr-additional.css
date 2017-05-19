@@ -473,7 +473,7 @@ h6,
 }
 #ext_menu-d .link[aria-expanded="true"],
 #ext_menu-d .dropdown-item[aria-expanded="true"] {
-  color: #00a885!important;
+  color: #ffffff!important;
 }
 #header5-1 .mbr-section-title {
   color: #000;
@@ -489,6 +489,9 @@ h6,
 #social-buttons2-b .mbr-section-title {
   font-size: 19px;
 }
+#form1-v .form-control-label {
+  color: #232323;
+}
 
 #msg-box8-2 .mbr-section-title,
 #msg-box8-2 p {
@@ -496,6 +499,14 @@ h6,
 }
 #msg-box8-2 .mbr-section-title {
   color: #553982;
+}
+#header3-q .mbr-section-title,
+#header3-q .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-q H3 {
+  color: #ffffff;
+  text-align: right;
 }
 #ext_menu-e .hide-buttons .nav-btn {
   display: none !important;
@@ -557,7 +568,7 @@ h6,
 }
 #ext_menu-e .link[aria-expanded="true"],
 #ext_menu-e .dropdown-item[aria-expanded="true"] {
-  color: #00a885!important;
+  color: #ffffff!important;
 }
 
 #msg-box8-8 .mbr-section-title,
@@ -567,6 +578,13 @@ h6,
 #msg-box8-8 .mbr-section-title {
   color: #00a885;
 }
+#header3-r .mbr-section-title,
+#header3-r .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-r H3 {
+  color: #ffffff;
+}
 #ext_menu-e .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -627,7 +645,7 @@ h6,
 }
 #ext_menu-e .link[aria-expanded="true"],
 #ext_menu-e .dropdown-item[aria-expanded="true"] {
-  color: #00a885!important;
+  color: #ffffff!important;
 }
 
 #ext_menu-e .hide-buttons .nav-btn {
@@ -690,7 +708,7 @@ h6,
 }
 #ext_menu-e .link[aria-expanded="true"],
 #ext_menu-e .dropdown-item[aria-expanded="true"] {
-  color: #00a885!important;
+  color: #ffffff!important;
 }
 
 #msg-box8-n .mbr-section-title,
@@ -699,6 +717,20 @@ h6,
 }
 #msg-box8-n .mbr-section-title {
   color: #00a885;
+}
+#header3-s .mbr-section-title,
+#header3-s .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-s H3 {
+  color: #ffffff;
+}
+#header3-t .mbr-section-title,
+#header3-t .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-t H3 {
+  color: #ffffff;
 }
 #ext_menu-p .hide-buttons .nav-btn {
   display: none !important;
@@ -760,5 +792,5 @@ h6,
 }
 #ext_menu-p .link[aria-expanded="true"],
 #ext_menu-p .dropdown-item[aria-expanded="true"] {
-  color: #00a885!important;
+  color: #ffffff!important;
 }
